@@ -70,4 +70,11 @@ The inside of the data folder should look like this:
 ```
 4. Run the notebook file trainer.ipynb
 
+## Sample output
 
+<table>
+  <tr>
+    <td>
+      <p>Parallel plot</p>
+      <img src="./assets/output.png" alt="Correlations Plot" width="230" hight="220">
+</table>

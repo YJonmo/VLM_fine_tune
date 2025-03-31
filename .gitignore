@@ -1,8 +1,8 @@
 
 # .gitignore
-__pycache__/
+*__pycache__/
 .venv
 venv
-.pt
-.pth
-.lock
+*.pt
+*.pth
+*.lock

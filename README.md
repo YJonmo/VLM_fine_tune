@@ -76,5 +76,5 @@ The inside of the data folder should look like this:
   <tr>
     <td>
       <p> Image and text features similarity </p>
-      <img src="./assets/output.png" alt="Correlations Plot" width="230" hight="220">
+      <img src="./assets/output.png" alt="Correlations Plot" width="330" hight="220">
 </table>

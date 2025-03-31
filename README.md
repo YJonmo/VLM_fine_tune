@@ -75,6 +75,6 @@ The inside of the data folder should look like this:
 <table>
   <tr>
     <td>
-      <p>Parallel plot</p>
+      <p> Image and text features similarity </p>
       <img src="./assets/output.png" alt="Correlations Plot" width="230" hight="220">
 </table>

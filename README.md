@@ -14,7 +14,7 @@ This Jupyter notebook demonstrates fine tuning a CLIP model from OpenAI to be ab
   - pillow
   - pyqt6
 	
-## Project Structor
+## Project Structure
 ```bash
 project_root/
 │
